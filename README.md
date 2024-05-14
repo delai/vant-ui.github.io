@@ -1,1 +1,1 @@
-https://doc.vant.pro/vant/#/zh-CN
+https://doc.vant.pro/vant/
